@@ -1,6 +1,6 @@
 /* 
-*	this mini library is developed by Gootent to 
-*	ease development of frontend application
+*	this mini library is developed by Emmanuel Godswill to 
+*	to provide autoscroll feature
 *	the libray is absolute bug free
 *	preview the readme.md to see how to initialize this library
 *   Version: 1.0.0;
