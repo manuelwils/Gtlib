@@ -6,7 +6,7 @@
 *   Version: 1.0.0;
 * 	Date: 2020-05-31T21:04Z
 */
-!(function(){
+(function(){
 
 	//"use strict";
 
@@ -59,7 +59,7 @@
 		}
 	}
 	
-}());
+})();
 /* if the script is well linked to the document, 
 *	you would see this console message 
 */
