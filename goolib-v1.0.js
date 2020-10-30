@@ -1,10 +1,6 @@
 /* 
-*	this mini library is developed by Emmanuel Godswill to 
-*	to provide autoscroll feature
-*	the libray is absolute bug free
-*	preview the readme.md to see how to initialize this library
-*   Version: 1.0.0;
-* 	Date: 2020-05-31T21:04Z
+*Version: 1.0.0;
+*Date: 2020-05-31T21:04Z
 */
 (function(){
 
